@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle_de_Backup", "Controle_de_Backup\Controle_de_Backup.csproj", "{2D883AD0-D339-4C87-83A5-34EDEDB127DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D883AD0-D339-4C87-83A5-34EDEDB127DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D883AD0-D339-4C87-83A5-34EDEDB127DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D883AD0-D339-4C87-83A5-34EDEDB127DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D883AD0-D339-4C87-83A5-34EDEDB127DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EF83C4-0EE2-498F-B600-4E492571B725}
+	EndGlobalSection
+EndGlobal
